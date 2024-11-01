@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.icon {
+    margin-top: -5px;
+    margin-left: 2px;
+}
+.nav-link{
+    position: fixed;
+    margin: 15px; 
+    font-size: 21px;
+    cursor: pointer;
+    border: none;
+}
+.nav-link:hover{
+    color:#2980B9 ;
+}
